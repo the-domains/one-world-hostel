@@ -1,13 +1,30 @@
-analytics: {}
+name: One World Hostel
+purpose: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+opengraph: {}
 color:
-  brandColors: []
+  saturation: 0.8409544118836532
   brandStrength: 0.6488851120042113
   lightness: 0.2631380757929518
-  rhythmicContrast: 0.12687215653989092
-  saturation: 0.8409544118836532
+  brandColors:
+    - '#FFFFFF'
+    - '#1E1E0F'
+    - '#5B6F9A'
+    - '#655453'
+    - '#FCFCBD'
+  rhythmicContrast: 0.1268721565398909
+typography_spectrum: 0.2133221
+layout_spectrum: 0.6661046
+analytics: {}
 cta: {}
-layout_spectrum: 0.5506462503207312
-name: One World Hostel
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.508324857841712

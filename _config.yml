@@ -1,5 +1,7 @@
 name: One World Hostel
-purpose: {}
+favicon: null
+layout_spectrum: 0.6661046
+typography_spectrum: 0.2133221
 collections:
   - index:
       path: /
@@ -12,19 +14,30 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-opengraph: {}
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8409544118836532
-  brandStrength: 0.6488851120042113
-  lightness: 0.2631380757929518
   brandColors:
     - '#FFFFFF'
     - '#1E1E0F'
     - '#5B6F9A'
     - '#655453'
     - '#FCFCBD'
+  brandStrength: 0.6488851120042113
+  lightness: 0.2631380757929518
+  saturation: 0.8409544118836532
   rhythmicContrast: 0.1268721565398909
-typography_spectrum: 0.2133221
-layout_spectrum: 0.6661046
-analytics: {}
-cta: {}
+purpose:
+  - name: null
+    item: null
+    url: null
